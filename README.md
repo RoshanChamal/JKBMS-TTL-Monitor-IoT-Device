@@ -14,7 +14,7 @@ In addition, it will monitor battery capacity and turn on/off a 30A 5VDC 230VAC 
 # Schematics 3.3V
 <img src="BMS-RS485-TTL-and-Wemos-with-3v3.JPG"/>
 
-# RS485 Module
+# RS485 - TTL Module
 <img src="rs485_ttl_module.jpg"/>
 `https://tronic.lk/product/xy-017-uart-ttl-to-rs485-3-3v-5v-module-for-arduino`
 
