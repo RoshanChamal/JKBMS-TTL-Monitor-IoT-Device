@@ -10,11 +10,11 @@ Arduino code used to read voltages of cells, cell count, remain capacity, chargi
 
 # RS485 - TTL Module
 <img src="rs485_ttl_module.jpg"/>
-`https://tronic.lk/product/xy-017-uart-ttl-to-rs485-3-3v-5v-module-for-arduino`
+https://tronic.lk/product/xy-017-uart-ttl-to-rs485-3-3v-5v-module-for-arduino
 
 # WeMos Module
 <img src="WeMosD1Mini_pinout.png"/>
-`https://tronic.lk/product/nodemcu-d1-mini-lua-wifi-wemos-4m-esp8266-module`
+https://tronic.lk/product/nodemcu-d1-mini-lua-wifi-wemos-4m-esp8266-module
 
 # JK-BMS RS485 adapter
 <img src="JK RS485 adapter.jpg"/>
